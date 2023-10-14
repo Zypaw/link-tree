@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --bgColor: #797979;
-    --bgColor2: #000000;
+    --bgColor: #8876f0;
+    --bgColor2: #fffcd7;
     --accentColor: #FFF;
     --font: 'Montserrat', sans-serif;
     --delay: .3s;
